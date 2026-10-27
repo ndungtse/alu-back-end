@@ -1,0 +1,4 @@
+tasks.*
+__pycache__/
+api/*.csv
+api/*.json
